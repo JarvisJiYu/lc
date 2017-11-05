@@ -1,4 +1,4 @@
-#!/usr/bin/python2.6
+#!/bin/python
 
 class TreeNode(object):
 	def __init__(self, x):

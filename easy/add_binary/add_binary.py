@@ -1,4 +1,4 @@
-#!/usr/bin/python2.6
+#!/bin/python
 
 
 class Solution(object):
